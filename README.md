@@ -11,6 +11,6 @@ Chapter 4. Boosting
 
 Chapter 5. Model Tuning
 
-## Read more (Solutions and Answers):
+## Solutions and Answers:
 https://towardsdatascience.com/machine-learning-with-tree-based-models-51261c4eaae6
 
