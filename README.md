@@ -11,5 +11,5 @@ Chapter 4. Boosting
 
 Chapter 5. Model Tuning
 
-## Course Notes, Solutions and Answers:
+## Personal Notes:
 https://medium.com/ai-in-plain-english/machine-learning-with-tree-based-models-51261c4eaae6
